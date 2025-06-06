@@ -21,7 +21,7 @@ Fork & Feast is a mid-sized restaurant chain established in 2019, known for its 
 
 ## Database Overview
 
-The restaurant sales analysis is based on two relational tables: menu_items and order_details. These tables are linked through a common key "menu_item_id" and "item_id"
+The restaurant sales analysis is based on two relational tables: menu_items and order_details. These tables are linked through a common key <i><strong>"menu_item_id"</strong></i> and <i><strong>"item_id"</strong></i>
 ### 1. menu_items Table
 <ul>
     <li>menu_item_id – Unique identifier for each menu item (Primary Key)</li>
