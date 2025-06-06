@@ -11,7 +11,6 @@ Table of Contents
     - [Monthly & Category Sales Peaks](#monthly-and-category-sales-peaks)
     - [Sales by Platforms & Channels](#peak-days-and-hours-for-resource-allocation)
 - [Recommendations](#recommendations)
-- [Assumptions and Caveats](#assumptions-and-caveats)
 
 ***
 
@@ -69,3 +68,14 @@ The analysis reveals that the Hamburger leads in orders (622) and significant re
 <li>Early morning at 10 AM sees only 5 orders ($63.35 revenue), and late nights (10–11 PM) fall below 305 orders and $4,100 revenue; consider reducing operational costs or running incentive campaigns to increase off-peak sales.</li>
 </ul>
 
+## Recommendations
+<ul>
+<li>Promote High-Performing Categories (Asian & Italian):
+Since Asian and Italian dishes lead in both sales and revenue, the restaurant should expand these offerings by adding premium versions, seasonal specials, and focused promotions—especially in peak months like March—to drive customer interest and boost profits.</li>
+
+<li>Streamline the Menu by Removing Unpopular Items:
+Items like Chicken Tacos and Potstickers are underperforming and add to kitchen complexity. These should be improved, rebranded, or replaced with trending options such as fusion or plant-based dishes to enhance efficiency and better meet customer preferences.</li>
+
+<li>Optimize Staffing and Inventory by Time:
+Mondays and lunch hours are peak periods and require more staff and stock to meet demand. During slow times like early mornings and late nights, the restaurant should reduce staffing or offer discounts to cut costs and attract customers.</li>
+</ul>
