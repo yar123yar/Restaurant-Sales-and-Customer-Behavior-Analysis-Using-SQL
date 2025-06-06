@@ -3,6 +3,7 @@
 Table of Contents
 
 - [Project Background](#project-background)
+- [Database Overview](#database-overview)
 - [Executive Summary](#executive-summary)
 - [Insights Deep-Dive](#insights-deep-dive)
     - [Top Menu Items Performance](#top-menu-items-performance)
@@ -16,13 +17,31 @@ Table of Contents
 
 ## Project background
 
-Fork & Feast is a mid-sized restaurant chain established in 2019, known for its diverse menu and strong customer base across urban locations. To support data-informed decision-making, using MySQL, this project aims to analyze sales trends, item popularity, customer behavior, and peak business hours—ultimately providing data-backed recommendations to enhance performance across kitchen operations, product development, and marketing strategies.
+Fork & Feast is a mid-sized restaurant chain established in 2019, known for its diverse menu and strong customer base across urban locations. To support data-informed decision-making, using MySQL, this project analyzes 12,000 restaurant order records from January 1 to March 9, 2023, this project aims to analyze sales trends, item popularity, customer behavior, and peak business hours—ultimately providing data-backed recommendations to enhance performance across kitchen operations, product development, and marketing strategies.
 
+## Database Overview
 
-## Executive Summary
-This project analyzes 12,000 restaurant order records from January 1 to March 9, 2023, to uncover operational and sales insights for strategic decision-making. The dataset combines detailed transactional data from two core tables—menu_items and order_details—capturing item categories, pricing, order timing, and frequency.
+The restaurant sales analysis is based on two relational tables: menu_items and order_details. These tables are linked through a common key "menu_item_id" and "item_id"
+### 1. menu_items Table
+<ul>
+    <li>menu_item_id – Unique identifier for each menu item (Primary Key)</li>
+    <li>item_name – Name of the food or beverage item</li>
+    <li>category – Cuisine or food type classification (e.g., Asian, Italian, American)</li>
+    <li>price – Selling price of the menu item</li>
+</ul>
+
+### 2. order_details Table
+<ul>
+    <li>order_id – Unique identifier for each order transaction (Primary Key).</li>
+    <li>order_date – The date on which the order was placed.</li>
+    <li>order_time – The specific time the order was placed.</li>
+    <li>menu_item_id – Foreign key referencing menu_item_id in the menu_items table.</li>
+</ul>
 
 ![Image](https://github.com/user-attachments/assets/d2ba5c6f-ecef-4fc6-8853-cd1a1de7ddbe)
+
+## Executive Summary
+ The dataset combines detailed transactional data from two core tables—menu_items and order_details—capturing item categories, pricing, order timing, and frequency.
 
 The analysis reveals that the Hamburger leads in orders (622) and significant revenue ($8,054.90), with Asian and Italian cuisines dominating top-performing categories, generating $46.7K and $49.5K in revenue respectively. March had the highest sales ($54,610.60), driven primarily by Italian dishes ($17,189.90). Monday is the peak day with 1,988 orders and ₹26,007.45 sales, while 12 PM is the busiest hour (1,659 orders, $21,718.40). The least ordered items include Chicken Tacos (123 orders).
 
