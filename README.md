@@ -10,7 +10,7 @@ Table of Contents
     - [Category Revenue & Sales Trends](#category-revenue-and-sales-trends)
     - [Least & Most Ordered Items Analysis](#least-and-most-ordered-items-analysis)
     - [Monthly & Category Sales Peaks](#monthly-and-category-sales-peaks)
-    - [Sales by Platforms & Channels](#peak-days-and-hours-for-resource-allocation)
+    - [Peak Days And Hours for Resource Allocation](#peak-days-and-hours-for-resource-allocation)
 - [Recommendations](#recommendations)
 
 ***
@@ -96,6 +96,9 @@ The analysis reveals that the Hamburger leads in orders (622) and significant re
 <li>Peak hours are 12 PM (1,659 orders, $21,718.40 revenue) and 1 PM (1,558 orders, $20,640.25 revenue), with strong sales continuing through 4–6 PM; optimize kitchen staffing and delivery logistics during these times.</li>
 <li>Early morning at 10 AM sees only 5 orders ($63.35 revenue), and late nights (10–11 PM) fall below 305 orders and $4,100 revenue; consider reducing operational costs or running incentive campaigns to increase off-peak sales.</li>
 </ul>
+
+![hoursDaysSales](https://github.com/user-attachments/assets/d4f28884-bacf-48f7-8aba-64b9b38442c0)
+
 
 ## Recommendations
 <ul>
