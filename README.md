@@ -55,6 +55,8 @@ The analysis reveals that the Hamburger leads in orders (622) and significant re
     <li>The presence of American, Asian, and Italian dishes among top sellers shows a balanced international mix, suggesting potential for fusion dishes and targeted themed promotions to attract varied customer segments.</li>
 </ul>
 
+
+
 ### Category Revenue And Sales Trends
 <ul>
     <li>Asian cuisine dominates with 9,280,150 in sales and $46,720.65 in revenue, justifying increased investment in menu innovation and expansion.</li>
