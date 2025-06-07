@@ -43,7 +43,7 @@ The restaurant sales analysis is based on two relational tables: menu_items and 
 ## Executive Summary
  The dataset combines detailed transactional data from two core tables—menu_items and order_details—capturing item categories, pricing, order timing, and frequency.
 
-The analysis reveals that the Hamburger leads in orders (622) and significant revenue ($8,054.90), with Asian and Italian cuisines dominating top-performing categories, generating $46.7K and $49.5K in revenue respectively. March had the highest sales ($54,610.60), driven primarily by Italian dishes ($17,189.90). Monday is the peak day with 1,988 orders and ₹26,007.45 sales, while 12 PM is the busiest hour (1,659 orders, $21,718.40). The least ordered items include Chicken Tacos (123 orders).
+The analysis reveals that the Hamburger leads in orders (622) and significant revenue ($8,054.90), with Asian and Italian cuisines dominating top-performing categories, generating $46.7K and $49.5K in revenue respectively. March had the highest sales ($54,610.60), driven primarily by Italian dishes ($17,189.90). Monday is the peak day with 1,988 orders and $26,007.45 sales, while 12 PM is the busiest hour (1,659 orders, $21,718.40). The least ordered items include Chicken Tacos (123 orders).
 
 ## Insights Deep-Dive
 
@@ -91,8 +91,8 @@ The analysis reveals that the Hamburger leads in orders (622) and significant re
 
 ### Peak Days And Hours for Resource Allocation
 <ul>
-<li>Mondays record the highest orders (1,988) and sales (₹26,007.45); increase staff and inventory to meet peak demand efficiently.</li>
-<li>Wednesdays show the lowest orders (1,522) and sales (₹19,902.30), indicating a mid-week slump; leverage targeted promotions or discounts to boost traffic.</li>
+<li>Mondays record the highest orders (1,988) and sales ($26,007.45); increase staff and inventory to meet peak demand efficiently.</li>
+<li>Wednesdays show the lowest orders (1,522) and sales ($19,902.30), indicating a mid-week slump; leverage targeted promotions or discounts to boost traffic.</li>
 <li>Peak hours are 12 PM (1,659 orders, $21,718.40 revenue) and 1 PM (1,558 orders, $20,640.25 revenue), with strong sales continuing through 4–6 PM; optimize kitchen staffing and delivery logistics during these times.</li>
 <li>Early morning at 10 AM sees only 5 orders ($63.35 revenue), and late nights (10–11 PM) fall below 305 orders and $4,100 revenue; consider reducing operational costs or running incentive campaigns to increase off-peak sales.</li>
 </ul>
