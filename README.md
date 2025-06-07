@@ -55,6 +55,7 @@ The analysis reveals that the Hamburger leads in orders (622) and significant re
     <li>The presence of American, Asian, and Italian dishes among top sellers shows a balanced international mix, suggesting potential for fusion dishes and targeted themed promotions to attract varied customer segments.</li>
 </ul>
 
+![Image](https://github.com/user-attachments/assets/47c49a35-9342-4481-9a97-82da18917b07)
 
 
 ### Category Revenue And Sales Trends
