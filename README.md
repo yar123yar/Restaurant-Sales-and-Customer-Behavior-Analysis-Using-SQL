@@ -55,7 +55,7 @@ The analysis reveals that the Hamburger leads in orders (622) and significant re
     <li>The presence of American, Asian, and Italian dishes among top sellers shows a balanced international mix, suggesting potential for fusion dishes and targeted themed promotions to attract varied customer segments.</li>
 </ul>
 
-![Image](https://github.com/user-attachments/assets/47c49a35-9342-4481-9a97-82da18917b07)
+![Image](https://github.com/user-attachments/assets/0afc5fc5-c5dc-4743-8151-a78395cbf58b)
 
 
 ### Category Revenue And Sales Trends
@@ -66,6 +66,8 @@ The analysis reveals that the Hamburger leads in orders (622) and significant re
     <li>Prioritize marketing campaigns on Asian and Italian cuisines to capitalize on higher sales volume and margins for better ROI.</li>
 </ul>
 
+![top_categories](https://github.com/user-attachments/assets/ee0798a1-d7aa-4f15-b6b3-680b2f5ff472)
+
 ### Least And Most Ordered Items Analysis
 <ul>
     <li>Hamburger (622 orders, American) and Edamame (620 orders, Asian) lead in popularity, driving significant foot traffic; prioritize their quality and availability to maintain customer loyalty.</li>
@@ -74,6 +76,8 @@ The analysis reveals that the Hamburger leads in orders (622) and significant re
     <li>Balanced mix of international cuisines suggests opportunity to highlight fusion dishes or themed promotions.</li>
 </ul>
 
+![orderPerDishes](https://github.com/user-attachments/assets/bba53617-a216-4ea1-a29f-14a8d04b919f)
+
 ### Monthly And Category Sales Peaks
 <ul>
 <li>March records the highest order value at $54,610.60, driven primarily by Italian ($17,189.90) and Asian ($16,056.45) food sales; ensure inventory and staffing align with this demand surge.</li>
@@ -81,6 +85,9 @@ The analysis reveals that the Hamburger leads in orders (622) and significant re
 <li>Mexican ($11,358.50) and American ($10,005.75) sales are lower in March; monitor for seasonal trends and adjust offerings accordingly.</li>
 <li>Leveraging monthly sales data enables targeted promotions and accurate demand forecasting, reducing waste and improving profitability.</li>
 </ul>
+
+![monthMarchSales](https://github.com/user-attachments/assets/619462f9-0289-47c4-92ce-1c484403ecec)
+
 
 ### Peak Days And Hours for Resource Allocation
 <ul>
