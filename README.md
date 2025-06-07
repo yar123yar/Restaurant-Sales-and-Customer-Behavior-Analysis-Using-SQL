@@ -17,7 +17,7 @@ Table of Contents
 
 ## Project background
 
-Fork & Feast is a mid-sized restaurant chain established in 2019, known for its diverse menu and strong customer base across urban locations. To support data-informed decision-making, using MySQL, this project analyzes 12,000 restaurant order records from January 1 to March 9, 2023, this project aims to analyze sales trends, item popularity, customer behavior, and peak business hours—ultimately providing data-backed recommendations to enhance performance across kitchen operations, product development, and marketing strategies.
+Fork & Feast is a mid-sized restaurant chain established in 2019, known for its diverse menu and strong customer base across urban locations. To support data-informed decision-making, using MySQL and Python for Data Visualization, this project analyzes 12,000 restaurant order records from January 1 to March 9, 2023, this project aims to analyze sales trends, item popularity, customer behavior, and peak business hours—ultimately providing data-backed recommendations to enhance performance across kitchen operations, product development, and marketing strategies.
 
 ## Database Overview
 
